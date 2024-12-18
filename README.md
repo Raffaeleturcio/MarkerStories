@@ -1,3 +1,11 @@
 # MarkerStories
 this app was developed using the SwiftUI and MapKit kits. Its purpose is to teach the history and precise historical events of a city, accompanying the visitor in the exploration of the city, deepening the knowledge of a certain place through the knowledge of certain anecdotes, suitable to stimulate the user's curiosity. Annotations have been used to report the locations of points of interest, they are clickable and interactive, tapping on them will open a modal, which will allow access to information regarding these.  To allow navigation between the various markers I programmed two arrows, made buttons and a set of variables that allowed navigation, making it accessible to all. Annotations were inserted within the map through the use of constants comprising the coordinates of the place. A number of variables were used to enter the data and finally a repositoryview was created, allowing data regarding individual places to be collected and then retrieved in the main view, the data include: UUID, image, name, description and coordinates.
 
+<img width="290" alt="Screenshot 2024-12-18 at 17 01 04" src="https://github.com/user-attachments/assets/88cc6bfd-d17a-48e2-8ee5-31c035965d7e" />
+<img width="290" alt="Screenshot 2024-12-18 at 17 00 27" src="https://github.com/user-attachments/assets/c5db9c85-1785-462c-ad92-2173ff46892b" />
+<img width="284" alt="Screenshot 2024-12-18 at 17 01 13" src="https://github.com/user-attachments/assets/26f938d5-4d69-442a-bf7b-04b36f1d9a6e" />
+<img width="284" alt="Screenshot 2024-12-18 at 17 00 35" src="https://github.com/user-attachments/assets/1837a09a-53e2-489d-8b53-65d00adee179" />
+<img width="290" alt="Screenshot 2024-12-18 at 17 01 22" src="https://github.com/user-attachments/assets/8db106e5-06e9-4025-99ad-f5d78d68dd6f" />
+<img width="286" alt="Screenshot 2024-12-18 at 17 00 44" src="https://github.com/user-attachments/assets/e97e3adc-91cf-4f17-b769-6cbf1391fc76" />
+<img width="281" alt="Screenshot 2024-12-18 at 17 00 55" src="https://github.com/user-attachments/assets/0ee9b4c3-2876-4eae-a432-cd6f341657cb" />
+<img width="274" alt="Screenshot 2024-12-18 at 17 01 33" src="https://github.com/user-attachments/assets/66905389-6887-400e-a98c-21b8760bd6e2" />
