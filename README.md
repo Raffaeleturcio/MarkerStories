@@ -3,8 +3,16 @@ this app was developed using the SwiftUI and MapKit kits. Its purpose is to teac
 
 
 
-<img width="284" alt="Screenshot 2024-12-18 at 17 00 35" src="https://github.com/user-attachments/assets/65593a37-6154-4374-a4d1-7aef00c994ab" />
-<img width="290" alt="Screenshot 2024-12-18 at 17 00 27" src="https://github.com/user-attachments/assets/4f318a46-1bb2-4988-b1a5-847b97fb95a9" />
+
+<img width="297" alt="Screenshot 2024-12-19 at 12 45 54" src="https://github.com/user-attachments/assets/9f26b76b-9295-4c99-8a0e-860e6a3f8389" />
+<img width="298" alt="Screenshot 2024-12-19 at 12 45 20" src="https://github.com/user-attachments/assets/5ff91f2f-fe6e-4e13-b00b-403577b51367" />
+<img width="300" alt="Screenshot 2024-12-19 at 12 45 11" src="https://github.com/user-attachments/assets/e8ce3a12-772a-494d-90bd-f5a8cbb862c7" />
+<img width="304" alt="Screenshot 2024-12-19 at 12 44 43" src="https://github.com/user-attachments/assets/a1731b6c-6f46-4ef4-b1e0-543f26fe2588" />
+<img width="300" alt="Screenshot 2024-12-19 at 12 45 44" src="https://github.com/user-attachments/assets/72e5378a-0963-48b9-b309-c5e24455d027" />
+<img width="296" alt="Screenshot 2024-12-19 at 12 45 35" src="https://github.com/user-attachments/assets/df4d82a9-4cb5-42d0-a4b8-011adb68161c" />
+
+
+
 <img width="290" alt="Screenshot 2024-12-18 at 17 01 04" src="https://github.com/user-attachments/assets/88cc6bfd-d17a-48e2-8ee5-31c035965d7e" />
 <img width="284" alt="Screenshot 2024-12-18 at 17 01 13" src="https://github.com/user-attachments/assets/26f938d5-4d69-442a-bf7b-04b36f1d9a6e" />
 <img width="290" alt="Screenshot 2024-12-18 at 17 01 22" src="https://github.com/user-attachments/assets/8db106e5-06e9-4025-99ad-f5d78d68dd6f" />
